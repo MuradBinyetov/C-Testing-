@@ -1,0 +1,7 @@
+1)Unit Test
+2)Integration Test
+3)Ent to end Test
+4)[TestClass] and [TestMethod] attribute
+5)Arrange(Teskil etmek), Act(Hereket), Assert(Iddia et)
+6)Test driven Development(TDD)
+7)SetUp method 
